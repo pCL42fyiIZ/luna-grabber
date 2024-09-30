@@ -13,7 +13,7 @@
   <img  src="https://img.shields.io/github/last-commit/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
   <img  src="https://img.shields.io/github/license/Smug246/Luna-Grabber?color=6d00c1">
   <br>
-  <img  src="https://img.shields.io/github/issues/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
+  <img  src="https://img.shields.io/github/issues/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1"> 
   <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
   <br>
   <p align="center">
