@@ -32,7 +32,7 @@
     - Email
     - Phone
     - Gift Codes
-    - Backup Codes
+    - Backup Codes 
 
 - Browser Data
     - Cookies
