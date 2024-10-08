@@ -90,7 +90,7 @@ Make sure you have Python 3.11+ installed and it is added to your path.
 
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
-```
+``` 
 ### 3. Open The start.bat File
 
 ### 4. Create A Webhook:
